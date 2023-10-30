@@ -1,0 +1,61 @@
+M_id,M_name,Location,K_id,Built_by,Built_year,Time,Unesco_id
+1,Taj_Mahal,"Agra, UP",1,Shah Jahan,1631,21,252
+2,Agra_Fort,"UP, India",2,Akbar,1573,8,251
+3,Sun_Temple,"Puri, Odisha",3,King Narasimhadeva I,1250,4,246
+4,Khajuraho_Temples,"Khajuraho, MP",4,Abu Rahyan al Biruni,1022,170,240
+5,Virupaksha_Temple,"Hampi, KA",5,Queen Lokamahadevi,740,6,241
+6,Humayun's_Tomb,Delhi,2,Akbar,1560,7,232
+7,Qutub_Minar,Delhi,6,Qutub-ud-din Aibak,1215,28,233
+8,Red_fort,Delhi,1,Shah Jahan,1648,9,231
+9,Jantar_Mantar,"Jaipur, Rajasthan",7,Sawai Jai Singh II,1729,11,1338
+10,Rani_ki_vav ,"Patan, Gujarat",8,Rani Udaymati,1063,20,922
+11,Churches_and_Convents,"Goa, India",9,Theatines,1661,35,234
+12,Kakatiya_Rudreshwar_Temple,"Agra, UP",10,Recharla Rudra,1213,40,1570
+13,Hawa_Mahal,"Jaipur, Rajasthan",11,Sawai Pratap Singh,1799,4,2018
+14,Mahabodhi_Temple,"Bodh gaya, Bihar",12,Ashoka,260,17,1056
+15,Buddhist_Monuments,"Sanchi, MP",12,Ashoka,285,15,524
+16,Mysore_palace,Mysuru,13,Yaduraya Wodeyar,1897,15,2015
+17,Gol_Gumbaz,"Bijapur,Karnataka",14,Adil Shah,1656,30,801
+18,Great_Living_Chola_Temples,"Thanjavur,TN",15,Raja Raja Chola 1,1010,7,250
+19,Ajanta_and_Ellora_Caves,"Ellora,Mahahrashtra",16,Krishna 1,480,18,242
+20,Pattadakalu,"Bagalkot,Karnataka",17,Queen Trailokya Mahadevi,740,37,239
+21,Rock_Shelters_of_Bhimbetta,"Raisen,MP",18,Wakankar,1957,70,925
+22,Hill_forts_of_Rajasthan,"Rajasthan,India",19,Maharana Kumbha,480,40,247
+23,Golden_Temple,"Amritsar,Punjab",20,Arjan,1604,8,2004
+24,Lotus_Temple,Delhi,21,Fariboz Sahba,1986,1,932
+25,Victorial_Memorial,"Kolkata, Westbengal",22,British Raj,1906,15,
+26,Amer_Fort,"Jaipur , Rajasthan",23,RajMan Singh 1,1592,100,
+27,Sanchi_stupa,"Sanchi, Madhya Pradesh",12,Ashoka,300,100,524
+28,mehrangarh_Fort,"Jodhpur, Rajasthan",24,Roa Jodha,1459,500,247
+29,Brihadeeswara_Temple,"Thanjavur, Tamil Nadu",25,Raj Raj Chola,1010,7,251
+30,Fatehpur_Sikri,Uttar Pradesh,2,Akbar,1571,14,
+31,Meenakshi_Temple,"Madurai, Tamil Nadu",26,Vishwanatha Nayak and Thirumalai Nayak,1623,32,
+32,Sarnath,"Varanasi, Uttar Pradesh",12,Ashoka,276,29,1046
+33,Chittorgarh_Fort,"Chittorgarh, Rajasthan",27,Chitrangada Mori,761,28,247
+34,Charminar,Delhi,28,Mohammed Quli Qutb Shah,1591,7,
+35,Gateway_of_India,"Mumbai, Maharashtra",29,British Raj,1924,20,
+36,Ajmer_Sharif_Dargah,"Ajmer, Rajasthan",2, Akbar,1579,21,
+37,Hoysaleswara_Temple ,"Halebidu, Karnataka",30,Vishnuvardhana,1121,13,
+38,Chennakesava_Temple,"Belur, Karnataka",30,Vishnuvardhana,1117,40,
+39,Gwalior_Fort,"Gwalior, Madhya Pradesh",31,Man Singh Tomar,580,500,317
+40,Mahabalipuram_Temple,"Mahabalipuram, Tamil Nadu",32,Pallavas,680,110,249
+41,Statue _Of_Unity,"Kevadia, Gujarat",33,Government Of India,2018,3.5,
+42,India_Gate,New Delhi,22,British Raj,1931,10,
+43,Laxmi_Vilas_Palace,"Vadodara, Gujarat",34,Maharaja Sayajirao Gaekwad III,1890,12,
+44,Swaminarayan_Akshardham,Delhi,35,Bochasanwasi Akshar Purushottam Swaminarayan Sanstha,2005,7,
+45,Nalanda_University,Bihar,36,Gupta empire,480,350,
+46,Murud-Janjira_Fort,"Murud, Maharshtra",37,Siddis of Janjira,1481,350,
+47,Golkanada_Fort,"Hyderabad, Telangana",38,Kakatiya Dynasty,1181,400,
+48,Basilica_of_Bom_Jesus,Goa,39,Jesuit order,1605,10,
+49,Vivekananda_Rock_Memorial,"Kanyakumari, Tamil Nadu",40,Sri Eknath Ranade,1970,3,
+50,Jallianwala_Bagh,"Amritsar, Punjab",41, British Raj,1951,1,
+51,Champaner_Pavagadh,Gujarat,42,Chaulukya dynasty,780,5,
+52,Agha_Khan_Palace,"Pune, Maharashtra",43,Sultan Muhammed Shah Aga Khan III,1892,4,
+53,chitradurga_Fort,"Chitradurga,Karnataka",44,Nayaka Dynasty,1257,,
+54,Gomateshwar_Statue,"Shravanabelagola, Karnataka",45, Rachamalla,1012,12,253
+55,Elephanta_Caves,"Mumbai, Maharashtra",46,Kalachuri dynasty,650,15,244
+56,mahabat_maqbara,"Jungadh ,Gujarat",47,Nawab Mahabat Khan II,1878,20,null
+57,Shaniwar_Wada,"Pune, Maharashtra",48,Bajirao I,1730,18,858
+58,Mahabalipuram_Temple," Mahabalipuram, Tamil Nadu",49,Narasimhavarman I,700,9,249
+59,Salar_Jung_Museum,"Hyderabad, Telangana",50,Mir Yousuf Ali Khan,1951,8,
+60,Safdarjung_Tomb," New Delhi, Delhi",51,Nawab Shujaud Daula,1754,9,

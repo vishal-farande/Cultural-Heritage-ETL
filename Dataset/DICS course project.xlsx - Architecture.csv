@@ -1,0 +1,61 @@
+M_id,Architecture_style,Type,Carving_style,Material,Height
+1,Mughal,Tomb,Mughal,Ivory white marble,73
+2,Islamic,Fort,Mughal,Red sandstone and marble,21
+3,Kalainga,Temple,Kalinga,"chlorite, khondalite, and laterite",70
+4,nagara-style,Temple,Chandel,sandstone,3
+5,Dravidian,Temple,NULL,granite,48
+6,Mughal,Tomb,Mughal,Red sandstone ,47
+7,Indo-Islamic,Pillar,Kufic ,Red sandstone and marble,73
+8,Indo-Islamic,Fort,Mughal,Red sandstone,33
+9,Modern,Observatory,NULL,Marble and Local stone,220
+10,Maru-Gurjara,Queen's stepwell,Maru-Gurjara,Creamy colour sedimentary sandstone,64
+11,Portuguese,Church,Mosiac-Corinthian,laterite and lime,46
+12,Mughal,Town,Persian and Hindu,Red Standstone,50
+13,Rajput,Mahal,Islamic Mughal,red sandstone and marble,15
+14,Gupta,Temple,Gupta,brick,55
+15,Buddhist,Monument,Buddhist,clay or mud,17
+16,Indo-Sarascenic,Palace,Hindu-Muslim,"stone,bricks and wood",44
+17,Deccan-Indo-Islamic,Tomb,Islamic Mughal,dark grey basalt,51
+18,Tamil Arch,Temple,Rock Cut,Granite,60
+19,Dravidian,Temple,Dravidian,Basalt Rock,75
+20,Rekha-Nagara-Prasada,Caves,Natural,sandstone,586
+21,Blend of North-South,Caves,Natural ,sandstone,15
+22,Sultan-Mughal,Fort,Rajasthani,Translucent White Marble,180
+23,Islamic-Mughal,Temple,Sikh Art,"Gold, Marble",60
+24,Modern,Temple,Modern,Marble,40
+25,Indo-Saracenic ,museum,Indi-European,Makrana marble,56
+26, Rajput,Fort, Rajput,red sandstone,42
+27,Buddhist,Dome,Buddist,Brick,37
+28,Rajput,Fort, Rajput,red sandstone and marble,122
+29,Dravidian,Temple,Hindu,granite,66
+30,Mughal,Fort and Palace,Mughal,Red sandstone,54
+31,Dravidian,Temple,Dravidian,Granite and gopurams,50
+32,Buddhist,Stupa,Buddhist,Stone and brick,20
+33,Rajput,Fort,Hindu,Red sandstone,590
+34,Islamic,Mosque,Islamic,Granite and limestone,56
+35,British,Colonial,Indo-Saracenic,Yellow basalt and concrete,85
+36,Mughal,Dargah,Maru-Gurjara,Marble and sandstone,23
+37,Hoysala,Temple,Stone,Soapstone,30
+38,Hoysala,Temple,Stone,Soapstone,37
+39,Hindu and Mughal,Fort,Intricate sculptures and cravings,Sandstone,300
+40,Dravidian,Hindu,Bas-relief Scuptures,Granite,60
+41,Indian,Statue,Modern,Bronze,597
+42,Triumph,Colonial,Indo-Saracenic,Sandstone,138
+43,Indo-Saracenic revival,Palace,Hindu,Sandstone and marble,26
+44,Indian,Temple,Hindu,Pink sandstone and white marble,141
+45,Anicent india,University,Hindu,Stone,297
+46,Mughal,Fort,Islamic,Basalt stone and lime,40
+47,Dravidian-Mughal,Fort,Hindu-Islamic,Granite and limestone,400
+48,Baroque,Church,Laterite stone,Laterite stone,61
+49,Indian style,Memorial,Granite,"Granite, stone",133
+50,Park,Memorial,Hindu,Stone,59
+51, Hindu-Islamic style,Archaeological park,Stone and brick,Stone and brick,4
+52,Italian style, Palace,White marble,White marble,261
+53,Indo-Islamic,Fort,intricate stonework,granite,3260
+54, Dravidian,Single stone,Jain,granite,57
+55,Indian rock-cut,Cave,intricate carvings,basalt rock,39
+56,Indo-Islamic,mausoleum,Intricate sculptures and cravings,Sandstone and marble,50
+57,Maratha,Fort,Maratha,Sandstone,21
+58, Dravidian,Group of Monuments,Intricate stone carvings,Granite,15
+59,Islamic, Museum,," Sandstone, Granite, Marble",28
+60,Mughal,Tomb,Mughal," Red sandstone, Marble",25
